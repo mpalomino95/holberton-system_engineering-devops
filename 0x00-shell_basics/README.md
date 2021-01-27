@@ -1,1 +1,1 @@
-#holberton-system_engineering-devops/0x00-shell_basics
+En este directorio estan las respuestas acerca de shell basic
