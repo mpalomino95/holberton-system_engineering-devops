@@ -1,1 +1,2 @@
 #!/bin/bash
+nl -s /bin/ls __l__
