@@ -1,0 +1,31 @@
+total 112
+drwxrwxr-x 2 vagrant vagrant 4096 Feb  1 05:55 .
+drwxrwxr-x 6 vagrant vagrant 4096 Feb  1 04:54 ..
+-rwxrw-r-- 1 vagrant vagrant   33 Feb  1 05:09 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant   49 Feb  1 05:19 10-no_more_js
+-rwxrw-r-- 1 vagrant vagrant   45 Feb  1 05:19 11-directories
+-rwxrw-r-- 1 vagrant vagrant   27 Feb  1 05:19 12-newest_files
+-rwxrw-r-- 1 vagrant vagrant   27 Feb  1 05:20 13-unique
+-rwxrw-r-- 1 vagrant vagrant   37 Feb  1 05:20 14-findthatword
+-rwxrw-r-- 1 vagrant vagrant   39 Feb  1 05:20 15-countthatword
+-rwxrw-r-- 1 vagrant vagrant   42 Feb  1 05:21 16-whatsnext
+-rwxrw-r-- 1 vagrant vagrant   39 Feb  1 05:21 17-hidethisword
+-rwxrw-r-- 1 vagrant vagrant   52 Feb  1 05:21 18-letteronly
+-rwxrw-r-- 1 vagrant vagrant   25 Feb  1 05:22 19-AZ
+-rwxrw-r-- 1 vagrant vagrant   29 Feb  1 05:28 1-confused_smiley
+-rwxrw-r-- 1 vagrant vagrant   21 Feb  1 05:22 20-hiago
+-rwxrw-r-- 1 vagrant vagrant   16 Feb  1 05:22 21-reverse
+-rwxrw-r-- 1 vagrant vagrant   49 Feb  1 05:24 22-users_and_homes
+-rwxrw-r-- 1 vagrant vagrant   29 Feb  1 05:30 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant   40 Feb  1 05:38 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  1 05:47 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant   30 Feb  1 05:50 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant   36 Feb  1 05:17 6-third_line
+-rwxrw-r-- 1 vagrant vagrant  103 Feb  1 05:18 7-file
+-rwxrw-r-- 1 vagrant vagrant   37 Feb  1 05:18 8-cwd_state
+-rwxrw-r-- 1 vagrant vagrant   35 Feb  1 05:18 9-duplicate_last_line
+-rw-rw-r-- 1 vagrant vagrant   17 Feb  1 05:54 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant  801 Feb  1 05:53 iacta
+-rw-rw-r-- 1 vagrant vagrant    0 Feb  1 05:52 iacta~
+-rw-rw-r-- 1 vagrant vagrant    0 Feb  1 05:55 ls_cwd_content
+-rw-rw-r-- 1 vagrant vagrant 3160 Feb  1 05:13 README.md
